@@ -1,0 +1,1009 @@
+country_id,country_value,country_iso_code,indicator,date,value,type of indicator
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2023,1518303204.9,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2022,1471192939.9,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2021,1452131243.3,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2020,1527863210.8,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2019,1377889086.7,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2018,1349377447.4,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2017,1339403309.2,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2016,1290777702.5,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2015,1280311151.2,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2014,1286836300.3,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2013,1249160027.9,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2012,1196357127.5,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2011,1274688747.1,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2010,1303876871.3,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2009,1291168230.7,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2008,1275782808.0,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2007,1075497698.7,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2006,1054232125.7,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2005,1023162269.1,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2004,965854392.5,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2003,1061730342.3,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2002,849529037.9,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2001,721979991.7,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DECT.CD,2000,629903800.8,total_external_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2023,1448363703.5,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2022,1403455198.6,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2021,1381450825.9,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2020,1494102247.8,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2019,1348935805.7,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2018,1320856958.3,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2017,1309116304.1,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2016,1262624499.2,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2015,1248422893.8,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2014,1255477305.1,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2013,1214975470.7,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2012,1158201605.8,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2011,1232181645.3,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2010,1262168831.7,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2009,1246236715.9,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2008,1240736555.1,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2007,1039945812.0,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2006,1019586984.0,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2005,990731204.9,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2004,936756577.4,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2003,954156887.2,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2002,779301528.2,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2001,648647744.6,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DLXF.CD,2000,556589197.0,long_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2023,11597000.0,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2022,9866000.0,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2021,9819079.4,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2020,7988799.1,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2019,4209000.0,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2018,3633664.8,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2017,4803547.1,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2016,4097730.8,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2015,7091994.4,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2014,5434078.1,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2013,5721899.9,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2012,6138014.7,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2011,7818819.9,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2010,6912209.1,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2009,9510727.2,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2008,7484268.8,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2007,7274490.2,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2006,7725024.5,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2005,6855342.4,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2004,1307858.1,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2003,80983129.0,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2002,45899912.1,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2001,50844000.0,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DSTC.CD,2000,50000000.0,short_term_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2023,1355388703.5,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2022,1305338198.6,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2021,1278375825.9,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2020,1410263247.8,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2019,1285909805.7,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2018,1260155958.3,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2017,1231412304.1,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2016,1177227499.2,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2015,1153969893.8,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2014,1101834305.1,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2013,1053217470.7,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2012,984734605.8,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2011,1014198645.3,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2010,1018915831.7,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2009,1036856715.9,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2008,1021346555.1,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2007,1039945812.0,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2006,1019586984.0,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2005,990731204.9,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2004,936756577.4,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2003,954156887.2,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2002,779301528.2,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2001,648647744.6,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPPG.CD,2000,556589197.0,public_guaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2023,92975000.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2022,98117000.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2021,103075000.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2020,83839000.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2019,63026000.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2018,60701000.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2017,77704000.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2016,85397000.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2015,94453000.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2014,153643000.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2013,161758000.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2012,173467000.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2011,217983000.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2010,243253000.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2009,209380000.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2008,219390000.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2007,0.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2006,0.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2005,0.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2004,0.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2003,0.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2002,0.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2001,0.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DPNG.CD,2000,0.0,private_nonguaranteed_debt
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2023,58342501.4,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2022,57871741.3,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2021,60861338.0,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2020,25772163.9,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2019,24744281.0,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2018,24886824.3,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2017,25483458.0,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2016,24055472.5,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2015,24796263.0,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2014,25924917.1,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2013,28462657.3,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2012,32017507.0,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2011,34688281.9,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2010,34795830.5,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2009,35420787.6,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2008,27561984.1,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2007,28277396.5,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2006,26920117.2,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2005,25575721.8,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2004,27789957.0,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2003,26590326.1,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2002,24327597.6,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2001,22488247.1,imf_credit
+BZ,Belize,BLZ,DT.DOD.DIMF.CD,2000,23314603.8,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2023,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2022,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2021,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2020,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2019,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2018,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2017,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2016,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2015,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2014,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2013,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2012,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2011,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2010,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2009,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2008,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2007,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2006,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2005,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2004,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2003,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2002,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2001,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DECT.CD,2000,,total_external_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2023,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2022,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2021,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2020,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2019,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2018,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2017,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2016,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2015,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2014,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2013,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2012,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2011,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2010,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2009,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2008,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2007,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2006,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2005,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2004,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2003,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2002,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2001,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DLXF.CD,2000,,long_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2023,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2022,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2021,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2020,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2019,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2018,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2017,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2016,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2015,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2014,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2013,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2012,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2011,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2010,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2009,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2008,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2007,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2006,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2005,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2004,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2003,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2002,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2001,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DSTC.CD,2000,,short_term_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2023,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2022,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2021,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2020,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2019,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2018,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2017,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2016,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2015,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2014,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2013,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2012,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2011,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2010,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2009,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2008,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2007,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2006,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2005,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2004,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2003,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2002,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2001,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPPG.CD,2000,,public_guaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2023,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2022,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2021,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2020,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2019,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2018,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2017,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2016,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2015,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2014,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2013,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2012,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2011,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2010,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2009,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2008,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2007,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2006,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2005,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2004,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2003,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2002,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2001,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DPNG.CD,2000,,private_nonguaranteed_debt
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2023,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2022,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2021,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2020,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2019,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2018,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2017,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2016,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2015,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2014,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2013,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2012,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2011,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2010,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2009,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2008,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2007,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2006,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2005,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2004,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2003,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2002,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2001,,imf_credit
+CR,Costa Rica,CRI,DT.DOD.DIMF.CD,2000,,imf_credit
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2023,22861743174.6,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2022,21188282065.6,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2021,20341989714.6,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2020,18485326634.2,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2019,17368634891.6,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2018,16686606483.9,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2017,17192280768.2,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2016,16582870003.6,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2015,15604154313.2,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2014,15173875769.4,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2013,14131937323.3,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2012,13548206071.0,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2011,12729163388.5,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2010,11495710496.5,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2009,10405779193.0,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2008,10688436435.5,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2007,9864898765.1,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2006,10004564795.6,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2005,9621574748.3,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2004,9147790266.4,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2003,8616503266.2,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2002,6114021552.3,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2001,5344553477.7,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DECT.CD,2000,4535064825.0,total_external_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2023,19071665980.4,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2022,17853107507.9,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2021,17067529700.0,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2020,15964545474.2,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2019,14909718381.4,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2018,14388304089.4,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2017,14915643611.9,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2016,13829728051.1,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2015,13359567944.4,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2014,12918551364.6,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2013,12026674679.5,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2012,11770120834.6,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2011,11255025415.6,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2010,10407600802.3,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2009,9285740597.2,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2008,9107602789.5,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2007,8533379218.8,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2006,8677817361.6,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2005,7729550437.3,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2004,7329188311.5,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2003,6959376305.7,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2002,4916053945.1,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2001,3406154078.7,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DLXF.CD,2000,2857511618.6,long_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2023,2911988000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2022,2368616000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2021,2257970000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2020,1871210000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2019,2232400000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2018,2070481000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2017,2043354000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2016,2532931000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2015,2017594000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2014,2018000000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2013,1853000000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2012,1526327000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2011,1222650000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2010,835842000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2009,863240000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2008,1542350000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2007,1292037000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2006,1289160000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2005,1856314000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2004,1779800000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2003,1620000000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2002,1164000000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2001,1907000000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DSTC.CD,2000,1645000000.0,short_term_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2023,12650019980.4,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2022,12144112507.9,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2021,11560019700.0,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2020,10797093474.2,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2019,9826484381.4,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2018,9467349089.4,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2017,9501692611.9,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2016,8726575051.1,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2015,8637802944.4,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2014,8695997364.6,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2013,7867735679.5,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2012,7884971834.6,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2011,7271621415.6,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2010,6838561802.3,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2009,6147030597.2,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2008,5791445789.5,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2007,5454044218.8,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2006,5388629361.6,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2005,5107176437.3,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2004,5566959311.5,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2003,5376026305.7,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2002,4788464945.1,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2001,3249665078.7,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPPG.CD,2000,2746022618.6,public_guaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2023,6421646000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2022,5708995000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2021,5507510000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2020,5167452000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2019,5083234000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2018,4920955000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2017,5413951000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2016,5103153000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2015,4721765000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2014,4222554000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2013,4158939000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2012,3885149000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2011,3983404000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2010,3569039000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2009,3138710000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2008,3316157000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2007,3079335000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2006,3289188000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2005,2622374000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2004,1762229000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2003,1583350000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2002,127589000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2001,156489000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DPNG.CD,2000,111489000.0,private_nonguaranteed_debt
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2023,878089194.2,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2022,966558557.7,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2021,1016490014.6,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2020,649571160.0,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2019,226516510.2,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2018,227821394.5,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2017,233283156.3,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2016,220210952.5,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2015,226992368.8,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2014,237324404.8,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2013,252262643.8,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2012,251758236.4,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2011,251487972.9,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2010,252267694.2,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2009,256798595.8,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2008,38483646.0,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2007,39482546.3,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2006,37587434.0,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2005,35710311.0,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2004,38801954.9,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2003,37126960.5,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2002,33967607.2,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2001,31399399.0,imf_credit
+SV,El Salvador,SLV,DT.DOD.DIMF.CD,2000,32553206.4,imf_credit
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2023,25662103251.6,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2022,25269486615.2,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2021,26313444120.1,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2020,24357414712.1,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2019,24596433139.3,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2018,24274929980.6,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2017,23264893723.8,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2016,21129829604.4,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2015,20378217942.1,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2014,19511836131.6,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2013,17484024750.5,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2012,15367094881.6,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2011,16281345423.5,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2010,15043073564.1,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2009,14824423718.0,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2008,13823078747.7,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2007,12678187392.3,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2006,10946171835.0,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2005,9506426234.1,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2004,8094354233.7,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2003,5157578025.6,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2002,4527094223.8,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2001,4381821175.1,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DECT.CD,2000,3948027445.6,total_external_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2023,24652037265.1,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2022,24153202827.9,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2021,24093737571.5,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2020,22680548934.3,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2019,22980408268.6,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2018,22396804655.7,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2017,21936469490.9,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2016,19939338566.3,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2015,19255709426.0,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2014,18269555265.1,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2013,16229221977.6,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2012,14131906744.6,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2011,13707892787.9,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2010,13148664592.1,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2009,13283457547.7,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2008,11629447154.6,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2007,10630449232.8,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2006,9430533051.8,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2005,8013923899.0,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2004,6435427022.9,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2003,3546740347.9,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2002,3256918429.2,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2001,3108067402.2,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DLXF.CD,2000,2739942630.0,long_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2023,189360000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2022,302200000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2021,1363568000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2020,1387500000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2019,1338200000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2018,1598700000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2017,1042300000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2016,920400000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2015,844100000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2014,951200000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2013,945400000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2012,926404020.5,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2011,2265000000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2010,1585000000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2009,1226000000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2008,2151000000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2007,2004000000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2006,1474000000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2005,1452943000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2004,1615943000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2003,1569709000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2002,1232547000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2001,1238970000.0,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DSTC.CD,2000,1172022872.6,short_term_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2023,12553659265.1,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2022,11201346827.9,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2021,11210232571.5,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2020,10561338934.3,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2019,9343020268.6,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2018,8428248655.7,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2017,8365983490.9,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2016,8147604566.3,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2015,7544216426.0,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2014,6999860265.1,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2013,7059125977.6,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2012,6305706744.6,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2011,5354012787.9,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2010,5559198592.1,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2009,4925728547.7,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2008,4384590154.6,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2007,4222076232.8,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2006,3953321051.8,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2005,3720330899.0,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2004,3827820022.9,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2003,3460917347.9,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2002,3154595429.2,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2001,2986744402.2,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPPG.CD,2000,2598419630.0,public_guaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2023,12098378000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2022,12951856000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2021,12883505000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2020,12119210000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2019,13637388000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2018,13968556000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2017,13570486000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2016,11791734000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2015,11711493000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2014,11269695000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2013,9170096000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2012,7826200000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2011,8353880000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2010,7589466000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2009,8357729000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2008,7244857000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2007,6408373000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2006,5477212000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2005,4293593000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2004,2607607000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2003,85823000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2002,102323000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2001,121323000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DPNG.CD,2000,141523000.0,private_nonguaranteed_debt
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2023,820705986.5,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2022,814083787.3,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2021,856138548.6,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2020,289365777.8,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2019,277824870.7,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2018,279425324.9,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2017,286124232.9,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2016,270091038.1,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2015,278408516.1,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2014,291080866.5,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2013,309402772.9,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2012,308784116.5,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2011,308452635.6,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2010,309408972.0,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2009,314966170.3,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2008,42631593.1,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2007,43738159.5,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2006,41638783.2,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2005,39559335.1,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2004,42984210.8,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2003,41128677.7,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2002,37628794.6,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2001,34783772.9,imf_credit
+GT,Guatemala,GTM,DT.DOD.DIMF.CD,2000,36061943.0,imf_credit
+HN,Honduras,HND,DT.DOD.DECT.CD,2023,12943993274.5,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2022,12638567154.6,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2021,12507763354.8,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2020,11074425349.5,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2019,9755669687.5,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2018,9177024593.1,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2017,8749704481.5,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2016,7621689846.3,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2015,7634387493.8,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2014,7374992615.7,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2013,6871384044.4,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2012,5086242375.9,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2011,4419471950.2,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2010,4008010903.5,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2009,3835948442.9,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2008,3517193356.3,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2007,3010680924.1,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2006,3987694941.5,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2005,5170226183.5,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2004,6205542461.2,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2003,5656942754.9,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2002,5491495663.9,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2001,5159558392.8,total_external_debt
+HN,Honduras,HND,DT.DOD.DECT.CD,2000,5616776612.6,total_external_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2023,10345600401.8,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2022,10600629833.2,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2021,10391783582.9,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2020,9782287365.2,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2019,8805966739.1,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2018,8302893582.3,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2017,8080370224.6,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2016,7016132124.2,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2015,6970555691.0,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2014,6686047020.8,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2013,6156265503.8,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2012,4475564447.1,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2011,3936872723.9,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2010,3413276232.5,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2009,3360651447.1,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2008,2990973028.2,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2007,2631571518.7,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2006,3643669317.2,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2005,4653629601.2,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2004,5557851532.3,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2003,5024720239.1,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2002,4745136404.1,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2001,4586274135.4,long_term_debt
+HN,Honduras,HND,DT.DOD.DLXF.CD,2000,5002418937.8,long_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2023,1495570000.0,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2022,989322929.4,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2021,1013195000.0,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2020,628059000.0,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2019,778440000.0,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2018,701881475.0,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2017,492955232.1,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2016,439062233.7,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2015,490799782.7,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2014,503617353.7,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2013,511859258.7,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2012,401572880.3,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2011,267471639.3,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2010,374241464.0,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2009,249249238.2,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2008,465535230.4,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2007,316849135.6,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2006,284753768.7,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2005,321236812.3,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2004,422869436.2,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2003,432395214.1,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2002,523873811.8,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2001,329252426.0,short_term_debt
+HN,Honduras,HND,DT.DOD.DSTC.CD,2000,373566877.7,short_term_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2023,8816900401.8,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2022,9012829833.2,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2021,8640998582.9,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2020,8598087365.2,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2019,7762166739.1,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2018,7360693582.3,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2017,7134370224.6,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2016,6091632124.2,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2015,5928636691.0,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2014,5574046020.8,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2013,5210164503.8,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2012,3677583447.1,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2011,3218172723.9,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2010,2834475232.5,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2009,2480951447.1,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2008,2334245028.2,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2007,2008051518.7,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2006,3008525317.2,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2005,4144881601.2,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2004,4989655532.3,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2003,4614178239.1,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2002,4277411404.1,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2001,4080203135.4,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPPG.CD,2000,4442372937.8,public_guaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2023,1528700000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2022,1587800000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2021,1750785000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2020,1184200000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2019,1043800000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2018,942200000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2017,946000000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2016,924500000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2015,1041919000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2014,1112001000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2013,946101000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2012,797981000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2011,718700000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2010,578801000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2009,879700000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2008,656728000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2007,623520000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2006,635144000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2005,508748000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2004,568196000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2003,410542000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2002,467725000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2001,506071000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DPNG.CD,2000,560046000.0,private_nonguaranteed_debt
+HN,Honduras,HND,DT.DOD.DIMF.CD,2023,1102822872.7,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2022,1048614392.0,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2021,1102784771.9,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2020,664078984.3,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2019,171262948.4,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2018,172249535.8,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2017,176379024.8,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2016,166495488.4,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2015,173032020.1,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2014,185328241.2,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2013,203259281.9,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2012,209105048.5,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2011,215127587.0,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2010,220493207.0,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2009,226047757.6,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2008,60685097.7,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2007,62260269.8,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2006,59271855.6,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2005,195359770.0,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2004,224821492.7,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2003,199827301.7,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2002,222485448.0,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2001,244031831.4,imf_credit
+HN,Honduras,HND,DT.DOD.DIMF.CD,2000,240790797.1,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2023,15360449736.8,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2022,15131422389.3,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2021,14824686632.9,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2020,13840341958.2,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2019,13682755037.4,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2018,13016798421.6,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2017,12741482690.8,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2016,12218682282.7,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2015,11513227717.4,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2014,10965052288.8,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2013,10255435645.0,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2012,9154589728.9,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2011,7938152810.7,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2010,7017467446.6,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2009,5923375456.1,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2008,4718042360.2,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2007,4113792029.7,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2006,4190303477.1,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2005,5011294159.0,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2004,5096750020.7,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2003,6854198401.8,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2002,6440411044.0,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2001,6387014039.0,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DECT.CD,2000,6822420902.0,total_external_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2023,13654736764.2,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2022,13317682818.6,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2021,13039841833.4,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2020,12429767655.0,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2019,12296192479.9,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2018,11445663264.0,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2017,11078045900.7,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2016,10572011387.9,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2015,9968833017.8,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2014,9149231642.7,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2013,8210056700.8,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2012,7089039671.5,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2011,6111992058.0,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2010,5256120419.5,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2009,4575807919.9,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2008,3427153618.2,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2007,2841622324.9,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2006,3480802165.9,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2005,4242451412.7,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2004,4321764207.8,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2003,6014732348.2,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2002,5683378253.2,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2001,5529731882.3,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DLXF.CD,2000,5716400669.3,long_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2023,1029859000.0,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2022,1143339000.0,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2021,1079812000.0,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2020,1041566000.0,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2019,1205429000.0,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2018,1375690000.0,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2017,1444479000.0,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2016,1419011000.0,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2015,1280765000.0,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2014,1512409000.0,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2013,1700669000.0,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2012,1705029000.0,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2011,1453198000.0,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2010,1402177000.0,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2009,1002013000.0,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2008,1149857000.0,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2007,1156553874.0,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2006,617337254.0,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2005,540211000.0,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2004,497011000.0,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2003,597278205.1,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2002,556131082.3,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2001,675291315.2,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DSTC.CD,2000,912125075.3,short_term_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2023,7081338764.2,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2022,6718853818.6,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2021,6407474833.4,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2020,5903257655.0,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2019,5427522479.9,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2018,5107768264.0,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2017,4709922900.7,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2016,4218363387.9,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2015,3962270017.8,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2014,3584060642.7,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2013,3314825700.8,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2012,3075045671.5,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2011,2867052058.0,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2010,2704384419.5,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2009,2526915919.9,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2008,2259376618.2,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2007,2179638324.9,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2006,3248317165.9,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2005,3950765412.7,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2004,4044247207.8,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2003,5805945348.2,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2002,5502699253.2,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2001,5389744882.3,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPPG.CD,2000,5435148669.3,public_guaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2023,6573398000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2022,6598829000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2021,6632367000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2020,6526510000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2019,6868670000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2018,6337895000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2017,6368123000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2016,6353648000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2015,6006563000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2014,5565171000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2013,4895231000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2012,4013994000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2011,3244940000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2010,2551736000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2009,2048892000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2008,1167777000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2007,661984000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2006,232485000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2005,291686000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2004,277517000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2003,208787000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2002,180679000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2001,139987000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DPNG.CD,2000,281252000.0,private_nonguaranteed_debt
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2023,675853972.6,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2022,670400570.7,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2021,705032799.5,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2020,369008303.2,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2019,181133557.5,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2018,195445157.6,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2017,218957790.1,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2016,227659894.8,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2015,263629699.6,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2014,303411646.1,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2013,344709944.2,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2012,360521057.4,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2011,372962752.7,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2010,359170027.1,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2009,345554536.2,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2008,141031742.0,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2007,115615830.8,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2006,92164057.2,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2005,228631746.3,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2004,277974812.9,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2003,242187848.5,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2002,200901708.5,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2001,181990841.5,imf_credit
+NI,Nicaragua,NIC,DT.DOD.DIMF.CD,2000,193895157.4,imf_credit
+PA,Panama,PAN,DT.DOD.DECT.CD,2023,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2022,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2021,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2020,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2019,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2018,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2017,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2016,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2015,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2014,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2013,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2012,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2011,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2010,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2009,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2008,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2007,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2006,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2005,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2004,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2003,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2002,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2001,,total_external_debt
+PA,Panama,PAN,DT.DOD.DECT.CD,2000,,total_external_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2023,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2022,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2021,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2020,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2019,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2018,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2017,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2016,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2015,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2014,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2013,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2012,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2011,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2010,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2009,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2008,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2007,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2006,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2005,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2004,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2003,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2002,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2001,,long_term_debt
+PA,Panama,PAN,DT.DOD.DLXF.CD,2000,,long_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2023,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2022,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2021,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2020,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2019,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2018,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2017,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2016,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2015,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2014,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2013,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2012,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2011,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2010,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2009,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2008,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2007,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2006,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2005,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2004,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2003,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2002,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2001,,short_term_debt
+PA,Panama,PAN,DT.DOD.DSTC.CD,2000,,short_term_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2023,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2022,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2021,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2020,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2019,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2018,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2017,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2016,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2015,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2014,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2013,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2012,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2011,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2010,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2009,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2008,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2007,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2006,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2005,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2004,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2003,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2002,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2001,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPPG.CD,2000,,public_guaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2023,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2022,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2021,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2020,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2019,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2018,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2017,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2016,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2015,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2014,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2013,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2012,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2011,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2010,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2009,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2008,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2007,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2006,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2005,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2004,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2003,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2002,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2001,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DPNG.CD,2000,,private_nonguaranteed_debt
+PA,Panama,PAN,DT.DOD.DIMF.CD,2023,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2022,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2021,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2020,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2019,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2018,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2017,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2016,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2015,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2014,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2013,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2012,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2011,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2010,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2009,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2008,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2007,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2006,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2005,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2004,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2003,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2002,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2001,,imf_credit
+PA,Panama,PAN,DT.DOD.DIMF.CD,2000,,imf_credit
