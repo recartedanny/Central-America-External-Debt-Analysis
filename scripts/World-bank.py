@@ -43,7 +43,7 @@ def fetch_indicator(country_code, indicator_code, date_range):
 
      
         if response_json[0].get('message'):
-            print(f"Error de API: {response_json[0]['message']}")
+            print(f"Error in API: {response_json[0]['message']}")
             return []
 
   
@@ -136,7 +136,7 @@ def save_to_csv(df, path):
 
     if not os.path.exists(path):
         os.makedirs(path)
-        print(f"carpeta '{path}' creada")
+        print(f"folder '{path}' created")
 
 
     timestamp=datetime.now().strftime("%Y%m%d_%H%M")
@@ -149,7 +149,7 @@ def save_to_csv(df, path):
         df.to_csv(path_historical,index=False, encoding='utf-8' )
         df.to_csv(path_latest, index=False)
         print(f"Saving data on'{path}'")
-        print(f"archivos creados{path_historical,path_latest}")
+        print(f"files created {path_historical,path_latest}")
     except Exception as e:
         print(f"The process of saving the data has failed{e}")
     
